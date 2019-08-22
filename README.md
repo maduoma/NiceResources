@@ -8,7 +8,7 @@ Good resources to include but not limited to: IT, ICT, Programming, Technology, 
 5. <a href="https://medium.com/google-developers">Google Developers @ Medium</a>
 6. <a href="https://developers.google.com/products/">Google Developers All Products</a>
 7. <a href="https://africa.googleblog.com/">Google Africa Blog</a>
-<a></a>
+8. <a href="https://medium.com/@traversymedia/70-job-find-websites-for-developers-other-tech-professionals-34cdb45518be">70+ Job Find Websites For Developers & Other Tech Professionals</a>
 <a></a>
 <a></a>
 <a></a>
