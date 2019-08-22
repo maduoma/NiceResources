@@ -11,5 +11,5 @@ Good resources to include but not limited to: IT, ICT, Programming, Technology, 
 8. <a href="https://medium.com/@traversymedia/70-job-find-websites-for-developers-other-tech-professionals-34cdb45518be">70+ Job Find Websites For Developers & Other Tech Professionals</a>
 <a href="https://careers.microsoft.com/students/us/en/usscholarshipprogram">Microsoft Scholarship Programs</a>
 <a href="https://www.wemakescholars.com/company/microsoft-corporation/scholarships">Microsoft Scholarship Programs</a>
-<a></a>
+<a href="https://www.educanada.ca/scholarships-bourses/news-nouvelles/index.aspx?lang=eng">Canada International Scholarships News</a>
 
