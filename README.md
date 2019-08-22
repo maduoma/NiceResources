@@ -6,8 +6,8 @@ Good resources to include but not limited to: IT, ICT, Programming, Technology, 
 3. <a href="https://cloud.google.com/certification/cloud-engineer">Associate Cloud Engineer</a>
 4. <a href="https://developers.google.com/training/certification/">Google Developers Certification</a>
 5. <a href="https://medium.com/google-developers">Google Developers @ Medium</a>
-6. <a href="https://developers.google.com/products/">Google All Products</a>
-<a></a>
+6. <a href="https://developers.google.com/products/">Google Developers All Products</a>
+7. <a href="https://africa.googleblog.com/">Google Africa Blog</a>
 <a></a>
 <a></a>
 <a></a>
