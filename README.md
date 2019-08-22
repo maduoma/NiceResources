@@ -9,7 +9,7 @@ Good resources to include but not limited to: IT, ICT, Programming, Technology, 
 6. <a href="https://developers.google.com/products/">Google Developers All Products</a>
 7. <a href="https://africa.googleblog.com/">Google Africa Blog</a>
 8. <a href="https://medium.com/@traversymedia/70-job-find-websites-for-developers-other-tech-professionals-34cdb45518be">70+ Job Find Websites For Developers & Other Tech Professionals</a>
-<a href="https://careers.microsoft.com/students/us/en/usscholarshipprogram">Microsoft Scholarship Programs</a>
-<a href="https://www.wemakescholars.com/company/microsoft-corporation/scholarships">Microsoft Scholarship Programs</a>
-<a href="https://www.educanada.ca/scholarships-bourses/news-nouvelles/index.aspx?lang=eng">Canada International Scholarships News</a>
+9. <a href="https://careers.microsoft.com/students/us/en/usscholarshipprogram">Microsoft Scholarship Programs</a>
+10. <a href="https://www.wemakescholars.com/company/microsoft-corporation/scholarships">Microsoft Scholarship Programs</a>
+11. <a href="https://www.educanada.ca/scholarships-bourses/news-nouvelles/index.aspx?lang=eng">Canada International Scholarships News</a>
 
