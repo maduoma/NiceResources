@@ -13,4 +13,5 @@ Good resources to include but not limited to: IT, ICT, Programming, Technology, 
 10. <a href="https://www.wemakescholars.com/company/microsoft-corporation/scholarships">Microsoft Scholarship Programs</a>
 11. <a href="https://www.educanada.ca/scholarships-bourses/news-nouvelles/index.aspx?lang=eng">Canada International Scholarships News</a>
 12. <a href="https://developer.android.com/courses/fundamentals-training/toc-v2">Google Codelabs for Android Developer Fundamentals</a>
+13. <a href="https://www.udacity.com/scholarships">Scholarships at Udacity</a>
 
