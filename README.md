@@ -1,4 +1,4 @@
-# Nice Resources
+# NiceResources
 Good resources to include but not limited to: IT, ICT, Programming, Technology, Software, Applications, Certifications.
 
 1. <a href="https://developers.google.com/training/certification/associate-android-developer/">Associate Android Developer</a>
@@ -14,5 +14,5 @@ Good resources to include but not limited to: IT, ICT, Programming, Technology, 
 11. <a href="https://www.educanada.ca/scholarships-bourses/news-nouvelles/index.aspx?lang=eng">Canada International Scholarships News</a>
 12. <a href="https://developer.android.com/courses/fundamentals-training/toc-v2">Google Codelabs for Android Developer Fundamentals</a>
 13. <a href="https://www.udacity.com/scholarships">Scholarships at Udacity</a>
-14. <a href="https://github.com/firebase">Google Firebase and FirebaseMessagingService</a>
+14. <a href="https://github.com/firebase/quickstart-android/tree/0f17b14ce785cf2b77e358154d987ecc30269616/messaging/app/src/main/java/com/google/firebase/quickstart/fcm/java">Google Firebase & FirebaseMessagingService</a>
 
