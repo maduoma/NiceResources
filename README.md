@@ -1,5 +1,5 @@
 # NiceResources
-Good resources to include but not limited to: IT, ICT, Programming, Technology, Software, Applications, Certifications.
+Good resources to include but not limited to: IT, ICT, Programming, Technology, Software, Applications, Certifications, Tutorials.
 
 1. <a href="https://developers.google.com/training/certification/associate-android-developer/">Associate Android Developer</a>
 2. <a href="https://developers.google.com/training/certification/mobile-web-specialist/">Mobile Web Specialist</a>
